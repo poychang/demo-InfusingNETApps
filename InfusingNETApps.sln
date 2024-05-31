@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.34909.67
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloAIConsoleApp", "HelloAIConsoleApp\HelloAIConsoleApp.csproj", "{B712031C-DE77-4A4C-8344-C91305F2E71B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloAIWebApi", "HelloAIWebApi\HelloAIWebApi.csproj", "{59C2F8DD-2C26-4BA2-B826-5AE20352E444}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B712031C-DE77-4A4C-8344-C91305F2E71B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B712031C-DE77-4A4C-8344-C91305F2E71B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B712031C-DE77-4A4C-8344-C91305F2E71B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B712031C-DE77-4A4C-8344-C91305F2E71B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59C2F8DD-2C26-4BA2-B826-5AE20352E444}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59C2F8DD-2C26-4BA2-B826-5AE20352E444}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59C2F8DD-2C26-4BA2-B826-5AE20352E444}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59C2F8DD-2C26-4BA2-B826-5AE20352E444}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BEEBE4BC-01B6-4639-A0A5-680FF47B0061}
+	EndGlobalSection
+EndGlobal

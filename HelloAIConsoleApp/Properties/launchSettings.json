@@ -1,0 +1,11 @@
+{
+    "profiles": {
+        "HelloAIConsoleApp": {
+            "commandName": "Project",
+            "environmentVariables": {
+                //"AI:OpenAI:ApiKey": "",
+                //"AI:Bing:ApiKey": ""
+            }
+        }
+    }
+}
